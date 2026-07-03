@@ -7,3 +7,6 @@ p{ padding: 30px}
 
 button {margin: 30px;}
 .container { display:flex;}
+
+.hero {background: cream;
+min-height: 400px;}
